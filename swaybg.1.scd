@@ -34,6 +34,9 @@ these options.
 	Select an output to configure. Subsequent appearance options will only
 	apply to this output. The special value _\*_ selects all outputs.
 
+*-n, --namespace* <name>
+	Set the namespace to use for the layer shell surface.
+
 *-v, --version*
 	Show the version number and quit.
 
